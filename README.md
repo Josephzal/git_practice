@@ -1,2 +1,1 @@
-
-This is a line
+Repo to practice with GitHub.
